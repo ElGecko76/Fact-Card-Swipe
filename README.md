@@ -4,7 +4,7 @@ It’s a React Native app that uses animations like Tinder.
 
 This application was made thanks to the @RobinLebhar video course on Udemy.
 
-![Fast Card - Demo] (fast-card-demo.gif)
+![Fast Card - Demo](https://github.com/ElGecko76/Fact-Card-Swipe/blob/master/fast-card-demo.gif)
 
 ## Requirement
 
